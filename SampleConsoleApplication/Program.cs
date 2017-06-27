@@ -15,6 +15,9 @@ namespace SampleConsoleApplication
 
             Console.WriteLine("Goodbye");
             Console.ReadLine();
+
+            Console.WriteLine("Goodbye again");
+            Console.ReadLine();
         }
     }
 }
