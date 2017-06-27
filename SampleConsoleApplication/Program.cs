@@ -12,6 +12,9 @@ namespace SampleConsoleApplication
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
+
+            Console.WriteLine("Goodbye");
+            Console.ReadLine();
         }
     }
 }
